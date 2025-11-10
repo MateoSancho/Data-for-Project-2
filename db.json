@@ -1,0 +1,48 @@
+{
+  "brands": [
+    {
+      "id": "AA",
+      "name": "Tren Tech",
+      "location": "US",
+      "yearCreated": 2022
+    },
+    {
+      "id": "AB",
+      "name": "Gymshark",
+      "location": "UK",
+      "yearCreated": 2016
+    },
+    {
+      "id": "AC",
+      "name": "Breath Divnity",
+      "location": "US",
+      "yearCreated": 2020
+    }
+  ],
+  "athletes": [
+    {
+      "id": "01",
+      "name": "Chris Tren",
+      "category": "Influencer",
+      "brandId": "AA"
+    },
+    {
+      "id": "02",
+      "title": "Manic Mike",
+      "category": "Influencer",
+      "brandId": "AA"
+    },
+    {
+      "id": "03",
+      "name": "CBUM",
+      "category": "Bodybuilder",
+      "brandId": "AB"
+    },
+    {
+      "id": "04",
+      "name": "Clark Kent",
+      "category": "Influencer",
+      "brandId": "AC"
+    }
+  ]
+}
