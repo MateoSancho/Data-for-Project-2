@@ -2,21 +2,24 @@
   "brands": [
     {
       "id": "AA",
-      "name": "Tren Tech",
+      "name": "Ferral Supplements",
       "location": "US",
-      "yearCreated": 2022
+      "yearCreated": 2022,
+      "image": "/images/brands/FerralSup.png"
     },
     {
       "id": "AB",
       "name": "Gymshark",
       "location": "UK",
-      "yearCreated": 2016
+      "yearCreated": 2016,
+      "image": "/images/brands/Gymshark.png"
     },
     {
       "id": "AC",
       "name": "Breath Divnity",
       "location": "US",
-      "yearCreated": 2020
+      "yearCreated": 2020,
+      "image": "/images/brands/BreathDivinity.png"
     }
   ],
   "athletes": [
@@ -24,25 +27,29 @@
       "id": "01",
       "name": "Chris Tren",
       "category": "Influencer",
-      "brandId": "AA"
+      "brandId": "AA",
+      "image": "/images/athletes/ChrisTren.png"
     },
     {
       "id": "02",
       "name": "Manic Mike",
       "category": "Influencer",
-      "brandId": "AA"
+      "brandId": "AA",
+      "image": "/images/athletes/ManicMike.png"
     },
     {
       "id": "03",
       "name": "CBUM",
       "category": "Bodybuilder",
-      "brandId": "AB"
+      "brandId": "AB",
+      "image": "/images/athletes/Cbum.png"
     },
     {
       "id": "04",
       "name": "Clark Kent",
       "category": "Influencer",
-      "brandId": "AC"
+      "brandId": "AC",
+      "image": "/images/athletes/ClarkKent.png"
     }
   ]
 }

@@ -10,11 +10,12 @@ try{
 // export default (not) ==> modue.exports
 
 const jsonServer= require("json-server")
+const path = require('path')
 
 const server = jsonServer.create()
 
 // Line of code that creates all the default configurations of the server
-const middlewares = jsonServer.defaults()
+const middlewares = jsonServer.defaults({static: 'public'})
 
 // Applying all the default configurations of the server
 server.use(middlewares)
