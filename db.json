@@ -20,15 +20,43 @@
       "location": "US",
       "yearCreated": 2020,
       "image": "/images/brands/BreathDivinity.png"
+    },
+    {
+      "id": "AD",
+      "name": "Youngla",
+      "location": "US",
+      "yearCreated": 2020,
+      "image": "/images/brands/Youngla.png"
+    },
+    {
+      "id": "AE",
+      "name": "Vanquish",
+      "location": "US",
+      "yearCreated": 2022,
+      "image": "/images/brands/Vanquish.png"
+    },
+    {
+      "id": "AF",
+      "name": "PR Lifestyle",
+      "location": "US",
+      "yearCreated": 2018,
+      "image": "/images/brands/Prlifestyle.png"
+    },
+    {
+      "id": "AG",
+      "name": "Unknown Brand",
+      "location": "Unknown location",
+      "yearCreated": "Unknown year",
+      "image": "/images/brands/udnefinedcopia.png"
     }
   ],
   "athletes": [
     {
-      "id": "01",
       "name": "Chris Tren",
       "category": "Influencer",
       "brandId": "AA",
-      "image": "/images/athletes/ChrisTren.png"
+      "image": "/images/athletes/ChrisTren.png",
+      "id": "01"
     },
     {
       "id": "02",
@@ -50,6 +78,90 @@
       "category": "Influencer",
       "brandId": "AC",
       "image": "/images/athletes/ClarkKent.png"
+    },
+    {
+      "id": "05",
+      "name": "Lexx Little",
+      "category": "Influencer",
+      "brandId": "AD",
+      "image": "/images/athletes/.png"
+    },
+    {
+      "id": "06",
+      "name": "kevin Levrone",
+      "category": "Bodybuilder",
+      "brandId": "AD",
+      "image": "/images/athletes/KevinLevrone.png"
+    },
+    {
+      "id": "07",
+      "name": "Mathieu",
+      "category": "Bodybuilder",
+      "brandId": "AD",
+      "image": "/images/athletes/Mathieu.png"
+    },
+    {
+      "id": "08",
+      "name": "Mauro",
+      "category": "Influencer",
+      "brandId": "AD",
+      "image": "/images/athletes/Mauro.png"
+    },
+    {
+      "id": "09",
+      "name": "URS",
+      "category": "Bodybuilder",
+      "brandId": "AD",
+      "image": "/images/athletes/Urs.png"
+    },
+    {
+      "id": "10",
+      "name": "Arnold",
+      "category": "Bodybuilder",
+      "brandId": "AD",
+      "image": "/images/athletes/Arnold.png"
+    },
+    {
+      "id": "11",
+      "name": "Josema",
+      "category": "Bodybuilder",
+      "brandId": "AE",
+      "image": "/images/athletes/Josema.png"
+    },
+    {
+      "id": "12",
+      "name": "Larry Wheels",
+      "category": "Powerlifter",
+      "brandId": "AF",
+      "image": "/images/athletes/LarryWheels.png"
+    },
+    {
+      "id": "13",
+      "name": "Moices Mike",
+      "category": "Influencer",
+      "brandId": "AB",
+      "image": "/images/athletes/MoicesMike.png"
+    },
+    {
+      "id": "14",
+      "name": "Ramon Dino",
+      "category": "Bodybuilder",
+      "brandId": "AG",
+      "image": "/images/athletes/RamonDino.png"
+    },
+    {
+      "id": "15",
+      "name": "Rich Piana",
+      "category": "Bodybuilder",
+      "brandId": "AG",
+      "image": "/images/athletes/RichPiana.png"
+    },
+    {
+      "id": "16",
+      "name": "URS",
+      "category": "Influencer",
+      "brandId": "AB",
+      "image": "/images/athletes/SamSulek.png"
     }
   ]
 }
