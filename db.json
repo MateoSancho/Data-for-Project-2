@@ -162,6 +162,13 @@
       "category": "Influencer",
       "brandId": "AB",
       "image": "/images/athletes/SamSulek.png"
+    },
+    {
+      "name": "LordMatiti",
+      "category": "Influencer",
+      "brandId": "AA",
+      "image": "./assets/Undefined.png",
+      "id": "nMuz7C8"
     }
   ]
 }
