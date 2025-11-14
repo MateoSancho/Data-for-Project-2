@@ -5,170 +5,272 @@
       "name": "Ferral Supplements",
       "location": "US",
       "yearCreated": 2022,
-      "image": "/images/brands/FerralSup.png"
+      "image": "/images/brands/FerralSup.png",
+      "description": "Suplementos deportivos premium enfocados en alto rendimiento",
+      "web": "https://feralsupplements.com"
     },
     {
       "id": "AB",
       "name": "Gymshark",
       "location": "UK",
       "yearCreated": 2016,
-      "image": "/images/brands/Gymshark.png"
+      "image": "/images/brands/Gymshark.png",
+      "description": "Marca líder en ropa deportiva y estilo de vida fitness",
+      "web": "https://eu.gymshark.com"
     },
     {
       "id": "AC",
-      "name": "Breath Divnity",
+      "name": "Breath Divinity",
       "location": "US",
       "yearCreated": 2020,
-      "image": "/images/brands/BreathDivinity.png"
+      "image": "/images/brands/BreathDivinity.png",
+      "description": "Ropa técnica para entrenamiento intenso y yoga",
+      "web": "https://breathedivinity.com"
     },
     {
       "id": "AD",
       "name": "Youngla",
       "location": "US",
       "yearCreated": 2020,
-      "image": "/images/brands/Youngla.png"
+      "image": "/images/brands/Youngla.png",
+      "description": "Marca de ropa bodybuilding con diseños audaces",
+      "web": "https://www.youngla.com"
     },
     {
       "id": "AE",
       "name": "Vanquish",
       "location": "US",
       "yearCreated": 2022,
-      "image": "/images/brands/Vanquish.png"
+      "image": "/images/brands/Vanquish.png",
+      "description": "Suplementos y accesorios para atletas de elite",
+      "web": "https://www.vqfit.com"
     },
     {
       "id": "AF",
       "name": "PR Lifestyle",
       "location": "US",
       "yearCreated": 2018,
-      "image": "/images/brands/Prlifestyle.png"
+      "image": "/images/brands/Prlifestyle.png",
+      "description": "Marca de powerlifting y powerbuilding",
+      "web": "https://prlifestyle.com"
     },
     {
       "id": "AG",
       "name": "Unknown Brand",
       "location": "Unknown location",
       "yearCreated": "Unknown year",
-      "image": "/images/brands/udnefined copia.png"
+      "image": "/images/brands/udnefined copia.png",
+      "description": "Marca independiente o sin representación oficial",
+      "web": null
+    },
+    {
+      "id": "AJ",
+      "name": "Gold's Gym",
+      "location": "US",
+      "yearCreated": 1965,
+      "image": "/images/brands/GoldsGym.png",
+      "description": "Cadena de gimnasios legendaria y marca de wearables",
+      "web": "https://golds-gym.es"
     }
   ],
   "athletes": [
     {
+      "id": "01",
       "name": "Chris Tren",
       "category": "Influencer",
       "brandId": "AA",
       "image": "/images/athletes/ChrisTren.png",
-      "id": "01"
+      "description": "Especialista en entrenamiento de fuerza y transformaciones físicas",
+      "yt": "https://www.youtube.com/@thetrentwins"
     },
     {
       "id": "02",
       "name": "Manic Mike",
       "category": "Influencer",
       "brandId": "AA",
-      "image": "/images/athletes/ManicMike.png"
+      "image": "/images/athletes/ManicMike.png",
+      "description": "Coach de calistenia y entrenamiento funcional",
+      "yt": "https://www.youtube.com/@thetrentwins"
     },
     {
       "id": "03",
       "name": "CBUM",
       "category": "Bodybuilder",
       "brandId": "AB",
-      "image": "/images/athletes/Cbum.png"
+      "image": "/images/athletes/Cbum.png",
+      "description": "Campeón de Classic Physique con rutinas de volumen",
+      "yt": "https://www.youtube.com/@ChrisBumstead"
     },
     {
       "id": "04",
       "name": "Clark Kent",
       "category": "Influencer",
       "brandId": "AC",
-      "image": "/images/athletes/ClarkKent.png"
+      "image": "/images/athletes/ClarkKent.png",
+      "description": "Especialista en entrenamiento con peso corporal",
+      "yt": "https://www.youtube.com/@Clarkybateman"
     },
     {
       "id": "05",
       "name": "Lexx Little",
       "category": "Influencer",
       "brandId": "AD",
-      "image": "/images/athletes/Lexxlittle.png"
+      "image": "/images/athletes/Lexxlittle.png",
+      "description": "Powerlifter y creador de contenido motivacional",
+      "yt": "https://www.youtube.com/@lexx.little"
     },
     {
       "id": "06",
-      "name": "kevin Levrone",
+      "name": "Kevin Levrone",
       "category": "Bodybuilder",
       "brandId": "AD",
-      "image": "/images/athletes/KevinLevrone.png"
+      "image": "/images/athletes/KevinLevrone.png",
+      "description": "Leyenda del Mr. Olympia con 20 podios profesionales",
+      "yt": null
     },
     {
       "id": "07",
       "name": "Mathieu",
       "category": "Bodybuilder",
       "brandId": "AD",
-      "image": "/images/athletes/Mathieu.png"
+      "image": "/images/athletes/Mathieu.png",
+      "description": "Campeón europeo de bodybuilding clásico",
+      "yt": "https://www.youtube.com/@MathieuSport"
     },
     {
       "id": "08",
       "name": "Mauro",
       "category": "Influencer",
       "brandId": "AD",
-      "image": "/images/athletes/Mauro.png"
+      "image": "/images/athletes/Mauro.png",
+      "description": "Especialista en nutrición deportiva y suplementación",
+      "yt": "https://www.youtube.com/@maurofialho"
     },
     {
       "id": "09",
       "name": "URS",
       "category": "Bodybuilder",
       "brandId": "AD",
-      "image": "/images/athletes/Urs.png"
+      "image": "/images/athletes/Urs.png",
+      "description": "Culturista profesional de la IFBB",
+      "yt": "https://www.youtube.com/@UrsKalecinski"
     },
     {
       "id": "10",
       "name": "Arnold",
       "category": "Bodybuilder",
       "brandId": "AD",
-      "image": "/images/athletes/Arnold.png"
+      "image": "/images/athletes/Arnold.png",
+      "description": "Leyenda del bodybuilding y 7 veces Mr. Olympia",
+      "yt": null
     },
     {
       "id": "11",
       "name": "Josema",
       "category": "Bodybuilder",
       "brandId": "AE",
-      "image": "/images/athletes/Josema.png"
+      "image": "/images/athletes/Josema.png",
+      "description": "Coach de competición y preparador físico",
+      "yt": "https://www.youtube.com/@Josemabeastifbbpro"
     },
     {
       "id": "12",
       "name": "Larry Wheels",
       "category": "Powerlifter",
       "brandId": "AF",
-      "image": "/images/athletes/LarryWheels.png"
+      "image": "/images/athletes/LarryWheels.png",
+      "description": "Powerlifter profesional con récords mundiales",
+      "yt": "https://www.youtube.com/@LarryWheels"
     },
     {
       "id": "13",
       "name": "Moices Mike",
       "category": "Influencer",
       "brandId": "AB",
-      "image": "/images/athletes/MoicesMike.png"
+      "image": "/images/athletes/MoicesMike.png",
+      "description": "Especialista en entrenamiento de hipertrofia",
+      "yt": "https://www.youtube.com/@moicestmike"
     },
     {
       "id": "14",
       "name": "Ramon Dino",
       "category": "Bodybuilder",
       "brandId": "AG",
-      "image": "/images/athletes/RamonDino.png"
+      "image": "/images/athletes/RamonDino.png",
+      "description": "Promesa del Classic Physique brasileño",
+      "yt": "https://www.youtube.com/@ramondinopro1619"
     },
     {
       "id": "15",
       "name": "Rich Piana",
       "category": "Bodybuilder",
       "brandId": "AG",
-      "image": "/images/athletes/RichPiana.png"
+      "image": "/images/athletes/RichPiana.png",
+      "description": "Icono del bodybuilding y estilo de vida 5%",
+      "yt": "https://www.youtube.com/@1DAYUMAY"
     },
     {
       "id": "16",
       "name": "Sam Sulek",
       "category": "Influencer",
       "brandId": "AB",
-      "image": "/images/athletes/SamSulek.png"
+      "image": "/images/athletes/SamSulek.png",
+      "description": "Joven promesa del fitness con rutinas extremas",
+      "yt": "youtube.com/@sam_sulek"
     },
     {
-      "name": "LordMatiti",
+      "id": "17",
+      "name": "Mike Mentzer",
+      "category": "Bodybuilder",
+      "brandId": "AG",
+      "image": "/images/athletes/MikeMentzer.png",
+      "description": "Pionero del entrenamiento de alta intensidad",
+      "yt": null
+    },
+    {
+      "id": "20",
+      "name": "Nick Walker",
+      "category": "Bodybuilder",
+      "brandId": "AG",
+      "image": "/images/athletes/NickWalker.png",
+      "description": "The Mutant, conocido por su genética única",
+      "yt": "https://www.youtube.com/@NickWalker39"
+    },
+    {
+      "id": "21",
+      "name": "Dorian Yates",
+      "category": "Bodybuilder",
+      "brandId": "AJ",
+      "image": "/images/athletes/DorianYates.png",
+      "description": "6 veces Mr. Olympia y creador del Blood and Guts",
+      "yt": null
+    },
+    {
+      "id": "22",
+      "name": "Ronnie Coleman",
+      "category": "Bodybuilder",
+      "brandId": "AD",
+      "image": "/images/athletes/RonnieColeman.png",
+      "description": "8 veces Mr. Olympia, leyenda del bodybuilding",
+      "yt": null
+    },
+    {
+      "id": "24",
+      "name": "Noel Deyzel",
       "category": "Influencer",
-      "brandId": "AA",
-      "image": "./assets/Undefined.png",
-      "id": "nMuz7C8"
+      "brandId": "AB",
+      "image": "/images/athletes/NoelDeyzel.png",
+      "description": "Educador fitness y especialista en mentalidad",
+      "yt": "https://www.youtube.com/@NoelDeyzel"
+    },
+    {
+      "id": "25",
+      "name": "Will Tennyson",
+      "category": "Influencer",
+      "brandId": "AB",
+      "image": "/images/athletes/WillTennyson.png",
+      "description": "Creador de contenido divertido sobre fitness y comida",
+      "yt": "https://www.youtube.com/@WillTennyson"
     }
   ]
 }
