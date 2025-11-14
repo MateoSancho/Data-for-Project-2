@@ -219,13 +219,13 @@
       "yt": "youtube.com/@sam_sulek"
     },
     {
-      "id": "17",
       "name": "Mike Mentzer",
       "category": "Bodybuilder",
       "brandId": "AG",
-      "image": "/images/athletes/MikeMentzer.png",
+      "image": "https://upload.wikimedia.org/wikipedia/en/d/d9/Mike_Mentzer.jpg",
       "description": "Legend of bodybuilding",
-      "yt": null
+      "yt": "",
+      "id": "17"
     },
     {
       "id": "20",
